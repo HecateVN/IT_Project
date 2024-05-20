@@ -1,0 +1,22 @@
+[
+    {
+        fullname: "Nguyen Quang Loi",
+        address: "164 Tan My, Tan Thuan Tay, Quan 7, HCM",
+        phoneNumber: "0881231231",
+    },
+    {
+        fullname: "Nguyen Van A",
+        address: "37/24/7 Tran Van Khanh, Tan Thuan Dong, Quan 7, HCM",
+        phoneNumber: "0812345612",
+    },
+    {
+        fullname: "Pham Van B",
+        address: "121 Le Hong Phong, Phuong 7, Quan 10, HCM",
+        phoneNumber: "0888888888",
+    },
+    {
+        fullname: "Tran Thi C",
+        address: "123, Au Co, Phuong 10, Quan Binh Tan, HCM",
+        phoneNumber: "0899999999",
+    }
+]
